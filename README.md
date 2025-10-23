@@ -5,6 +5,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&color=06B6D4&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Distributed+Systems+Engineer;Call+me+Fareed+Aslam+👋;Building+Scalable+and+Modern+Apps" />
 </h3>
 
+<!-- 👁️ Profile Views Counter -->
+<p align="right">
+  <img
+    src="https://hits.sh/github.com/fareed-aslam/hits.svg?extraCount=12302&label=Profile+Views&color=00FFFF&style=flat-square"
+    alt="Profile Views"
+  />
+</p>
+
+
+
 ---
 
 ### 🚀 About Me  
@@ -32,10 +42,7 @@
 
 </div>
 
-
 ---
-
-
 
 ### 📊 GitHub Analytics  
 
@@ -50,6 +57,39 @@
 
 </div>
 
+---
+
+### 🔥 Popular Repositories  
+
+<div align="center">
+  
+  <a href="https://github.com/fareed-aslam/Monarch-frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fareed-aslam&repo=Monarch-frontend&theme=tokyonight&border_color=00ffff" />
+  </a>
+  
+  <a href="https://github.com/fareed-aslam/Frontend-GROCRIA-ex-GREENCART">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fareed-aslam&repo=Frontend-GROCRIA-ex-GREENCART&theme=tokyonight&border_color=00ffff" />
+  </a>
+
+  <a href="https://github.com/fareed-aslam/Flavr-React-Native-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fareed-aslam&repo=Flavr-React-Native-app&theme=tokyonight&border_color=00ffff" />
+  </a>
+  
+  <a href="https://github.com/fareed-aslam/Monarch-frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fareed-aslam&repo=Chautha-Repo-Name&theme=tokyonight&border_color=00ffff" />
+  </a>
+  
+
+</div>
+
+
+---
+
+### 🌈 Contribution Graph  
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fareed-aslam&theme=tokyo-night&bg_color=000000&color=00ffff&line=00ffff&point=00ffff&hide_border=true" width="90%" />
+</div>
 
 ---
 
