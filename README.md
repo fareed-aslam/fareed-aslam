@@ -75,11 +75,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fareed-aslam&repo=Flavr-React-Native-app&theme=tokyonight&border_color=00ffff" />
   </a>
   
-  <a href="https://github.com/fareed-aslam/Monarch-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fareed-aslam&repo=Chautha-Repo-Name&theme=tokyonight&border_color=00ffff" />
-  </a>
-  
-
 </div>
 
 
