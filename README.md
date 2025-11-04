@@ -4,7 +4,11 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&color=06B6D4&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Distributed+Systems+Engineer;Call+me+Fareed+Aslam+👋;Building+Scalable+and+Modern+Apps" />
 </h3>
-
+<p align="center">
+  <a href="https://portfolio-pi-five-c8noipmde5.vercel.app/fareedCV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/💾%20Download%20CV-06B6D4?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
+</p>
 <!-- 👁️ Profile Views Counter -->
 <p align="right">
   <img
